@@ -9,7 +9,7 @@ elif playerinput == 2:
     print("I hope you fail.")
     
 elif playerinput == 3:
-    print("Ur nerver going to be successful.")
+    print("Ur never going to be successful.")
 
 elif playerinput == 4:
     print("Ur not going to make it.")
